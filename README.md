@@ -19,7 +19,5 @@ python3 client.py
 ```
 ### Test via UI: Access the API documentation through a web browser.
 
-Simply copy the HTTP address of the server and append '/docs' to it. For example:
-```
-http://127.0.0.1:8000/docs
-```
+Simply copy the HTTP address of the server and append '/docs' to it. For example: http://127.0.0.1:8000/docs
+
